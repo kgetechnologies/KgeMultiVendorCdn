@@ -4,6 +4,7 @@
       "Id": 1,
       "DisplayName": "RazorPay",
       "key": "Secret Key",
+      "canshow":"TRUE",
       "Secret": "Secret Value",
       "Url": "https://razorpay.com",
       "IsProd": true
@@ -11,9 +12,10 @@
 	{
       "Id": 2,
       "DisplayName": "CashFree",
+      "canshow":"TRUE",
       "key": "Secret Key",
       "Secret": "Secret Value",
-      "Url": "https://cashfree.com",
+      "Url": "https://test.cashfree.com/api/v2/cftoken/order",
       "IsProd": true
     }
   ]
