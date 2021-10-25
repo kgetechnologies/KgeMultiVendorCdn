@@ -1,0 +1,20 @@
+{
+  "Gateways": [
+    {
+      "Id": 1,
+      "DisplayName": "RazorPay",
+      "key": "Secret Key",
+      "Secret": "Secret Value",
+      "Url": "https://razorpay.com",
+      "IsProd": true
+    },
+	{
+      "Id": 2,
+      "DisplayName": "CashFree",
+      "key": "Secret Key",
+      "Secret": "Secret Value",
+      "Url": "https://cashfree.com",
+      "IsProd": true
+    }
+  ]
+}
